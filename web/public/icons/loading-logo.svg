@@ -1,0 +1,23 @@
+<svg width="520" height="180" viewBox="0 0 520 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes wave {
+      0%, 100% { transform: translateY(0); }
+      25% { transform: translateY(-16px); }
+      50% { transform: translateY(0); }
+    }
+    .letter-0 { animation: wave 1.6s ease-in-out infinite; animation-delay: 0s; }
+    .letter-1 { animation: wave 1.6s ease-in-out infinite; animation-delay: 0.12s; }
+    .letter-2 { animation: wave 1.6s ease-in-out infinite; animation-delay: 0.24s; }
+  </style>
+
+  <!-- Animated UMI wordmark (currentColor inherits from parent) -->
+  <g class="letter-0">
+    <text x="145" y="120" text-anchor="middle" fill="currentColor" font-family="'DM Sans', 'Segoe UI', -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="120" font-weight="700">U</text>
+  </g>
+  <g class="letter-1">
+    <text x="260" y="120" text-anchor="middle" fill="currentColor" font-family="'DM Sans', 'Segoe UI', -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="120" font-weight="700">M</text>
+  </g>
+  <g class="letter-2">
+    <text x="375" y="120" text-anchor="middle" fill="currentColor" font-family="'DM Sans', 'Segoe UI', -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="120" font-weight="700">I</text>
+  </g>
+</svg>
