@@ -38,7 +38,8 @@ UMI 采用本地优先和显式集成的思路：数据库、工作区元数据�
 下面是当前桌面端工作台的实际界面：
 
 <p align="center">
-  <img src="docs/screenshots/workbench.png" alt="UMI 数字员工工作台" width="900" />
+  <img width="1280" height="764" alt="工作台" src="https://github.com/user-attachments/assets/5e26e3d8-98a1-4fd2-8f57-57fad99c462e" />
+
 </p>
 
 <p align="center">
