@@ -47,8 +47,10 @@ UMI 采用本地优先和显式集成的思路：数据库、工作区元数据�
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/capabilities.png" alt="UMI 能力库" width="49%" />
-  <img src="docs/screenshots/settings-models.png" alt="UMI 模型配置" width="49%" />
+ <img src="https://github.com/user-attachments/assets/b88ce52c-eb52-48db-addd-62cfc879e7fe" alt="UMI能力库" width="49%"/>
+
+  <img src="https://github.com/user-attachments/assets/47fab916-2aed-4f91-9b5a-4dd4eba131f1" alt="UMI模型配置" width="49%"/>
+
 </p>
 
 <p align="center">
